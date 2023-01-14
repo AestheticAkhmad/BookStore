@@ -6,3 +6,15 @@
 //
 
 #include "Book.hpp"
+
+std::string Book::GetTitle() const {
+    return title;
+}
+
+uint32_t Book::GetISBN() const {
+    return ISBN;
+}
+
+int Book::GetPrice() const {
+    return price;
+}

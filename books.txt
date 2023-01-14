@@ -1,300 +1,300 @@
-1.	Don Quixote	Miguel de Cervantes
-2.	Alice's Adventures in Wonderland	Lewis Carroll
-3.	The Adventures of Huckleberry Finn	Mark Twain
-4.	The Adventures of Tom Sawyer	Mark Twain
-5.	Treasure Island	Robert Louis Stevenson
-6.	Pride and Prejudice	Jane Austen
-7.	Wuthering Heights	Emily Brontë
-8.	Jane Eyre	Charlotte Brontë
-9.	Moby Dick	Herman Melville
-10.	The Scarlet Letter	Nathaniel Hawthorne
-11.	Gulliver's Travels	Jonathan Swift
-12.	The Pilgrim's Progress	John Bunyan
-13.	A Christmas Carol	Charles Dickens
-14.	David Copperfield	Charles Dickens
-15.	A Tale of Two Cities	Charles Dickens
-16.	Little Women	Louisa May Alcott
-17.	Great Expectations	Charles Dickens
-18.	The Hobbit, or, There and Back Again	J.R.R. Tolkien
-19.	Frankenstein, or, the Modern Prometheus	Mary Shelley
-20.	Oliver Twist	Charles Dickens
-21.	Uncle Tom's Cabin	Harriet Beecher Stowe
-22.	Crime and Punishment	Fyodor Dostoyevsky
-23.	Madame Bovary: Patterns of Provincial life	Gustave Flaubert
-24.	The Return of the King	J.R.R. Tolkien
-25.	Dracula	Bram Stoker
-26.	The Three Musketeers	Alexandre Dumas
-27.	Brave New World	Aldous Huxley
-28.	War and Peace	Leo Tolstoy
-29.	To Kill a Mockingbird	Harper Lee
-30.	The Wizard of Oz	L. Frank Baum
-31.	Les Misérables	Victor Hugo
-32.	The Secret Garden	Frances Hodgson Burnett
-33.	Animal Farm	George Orwell
-34.	The Great Gatsby	F. Scott Fitzgerald
-35.	The Little Prince	Antoine de Saint-Exupéry
-36.	The Call of the Wild	Jack London
-37.	20,000 Leagues Under the Sea	Jules Verne
-38.	Anna Karenina	Leo Tolstoy
-39.	The Wind in the Willows	Kenneth Grahame
-40.	The Picture of Dorian Gray	Oscar Wilde
-41.	The Grapes of Wrath	John Steinbeck
-42.	Sense and Sensibility	Jane Austen
-43.	The Last of the Mohicans	James Fenimore Cooper
-44.	Tess of the d'Urbervilles	Thomas Hardy
-45.	Harry Potter and the Sorcerer's Stone	J.K. Rowling
-46.	Heidi	Johanna Spyri
-47.	Ulysses	James Joyce
-48.	The Complete Sherlock Holmes	Arthur Conan Doyle
-49.	The Count of Monte Cristo	Alexandre Dumas
-50.	The Old Man and the Sea	Ernest Hemingway
-51.	The Lion, the Witch, and the Wardrobe	C.S. Lewis
-52.	The Hunchback of Notre Dame	Victor Hugo
-53.	Pinocchio	Carlo Collodi
-54.	One Hundred Years of Solitude	Gabriel García Márquez
-55.	Ivanhoe	Walter Scott
-56.	The Red Badge of Courage	Stephen Crane
-57.	Anne of Green Gables	L.M. Montgomery
-58.	Black Beauty	Anna Sewell
-59.	Peter Pan	J.M. Barrie
-60.	A Farewell to Arms	Ernest Hemingway
-61.	The House of the Seven Gables	Nathaniel Hawthorne
-62.	Lord of the Flies	William Golding
-63.	The Prince and the Pauper	Mark Twain
-64.	A Portrait of the Artist as a Young Man	James Joyce
-65.	Lord Jim	Joseph Conrad
-66.	Harry Potter and the Chamber of Secrets	J.K. Rowling
-67.	The Red & the Black	Stendhal
-68.	The Stranger	Albert Camus
-69.	The Trial	Franz Kafka
-70.	Lady Chatterley's Lover	D.H. Lawrence
-71.	Kidnapped: The Adventures of David Balfour	Robert Louis Stevenson
-72.	The Catcher in the Rye	J.D. Salinger
-73.	Fahrenheit 451	Ray Bradbury
-74.	A Journey to the Center of the Earth	Jules Verne
-75.	Vanity Fair	William Makepeace Thackeray
-76.	All Quiet on the Western Front	Erich Maria Remarque
-77.	Gone with the Wind	Margaret Mitchell
-78.	My Ántonia	Willa Cather
-79.	Of Mice and Men	John Steinbeck
-80.	The Vicar of Wakefield	Oliver Goldsmith
-81.	A Connecticut Yankee in King Arthur's Court	Mark Twain
-82.	White Fang	Jack London
-83.	Fathers and Sons	Ivan Sergeevich Turgenev
-84.	Doctor Zhivago	Boris Leonidovich Pasternak
-85.	The Decameron	Giovanni Boccaccio
-86.	Nineteen Eighty-Four	George Orwell
-87.	The Jungle	Upton Sinclair
-88.	The Da Vinci Code	Dan Brown
-89.	Persuasion	Jane Austen
-90.	Mansfield Park	Jane Austen
-91.	Candide	Voltaire
-92.	For Whom the Bell Tolls	Ernest Hemingway
-93.	Far from the Madding Crowd	Thomas Hardy
-94.	The Fellowship of the Ring	J.R.R. Tolkien
-95.	The Return of the Native	Thomas Hardy
-96.	Sons and Lovers	D.H. Lawrence
-97.	Charlotte's Web	E.B. White
-98.	The Swiss Family Robinson	Johann David Wyss
-99.	Bleak House	Charles Dickens
-100.	Père Goriot	Honoré de Balzac
-101.	Utopia	Thomas More
-102.	The History of Tom Jones, a Foundling	Henry Fielding
-103.	Harry Potter and the Prisoner of Azkaban	J.K. Rowling
-104.	Kim	Rudyard Kipling
-105.	The Sound and the Fury	William Faulkner
-106.	Harry Potter and the Goblet of Fire	J.K. Rowling
-107.	The Mill on the Floss	George Eliot
-108.	A Wrinkle in Time	Madeleine L'Engle
-109.	The Hound of the Baskervilles	Arthur Conan Doyle
-110.	The Two Towers	J.R.R. Tolkien
-111.	The War of the Worlds	H.G. Wells
-112.	Middlemarch	George Eliot
-113.	The Age of Innocence	Edith Wharton
-114.	The Color Purple	Alice Walker
-115.	Northanger Abbey	Jane Austen
-116.	East of Eden	John Steinbeck
-117.	On the Road	Jack Kerouac
-118.	Catch-22	Joseph Heller
-119.	Around the World in Eighty Days	Jules Verne
-120.	Hard Times	Charles Dickens
-121.	Beloved	Toni Morrison
-122.	Mrs. Dalloway	Virginia Woolf
-123.	To the Lighthouse	Virginia Woolf
-124.	The Magician's Nephew	C.S. Lewis
-125.	Harry Potter and the Order of the Phoenix	J.K. Rowling
-126.	The Sun Also Rises	Ernest Hemingway
-127.	The Good Earth	Pearl S. Buck
-128.	Silas Marner	George Eliot
-129.	Love in the Time of Cholera	Gabriel García Márquez
-130.	Rebecca	Daphne Du Maurier
-131.	Jude the Obscure	Thomas Hardy
-132.	Twilight	Stephenie Meyer
-133.	A Passage to India	E.M. Forster
-134.	The Plague	Albert Camus
-135.	Nicholas Nickleby	Charles Dickens
-136.	The Pearl	John Steinbeck
-137.	Ethan Frome	Edith Wharton
-138.	The Tale of Genji	Murasaki Shikibu
-139.	The Giver	Lois Lowry
-140.	The Alchemist	Paulo Coelho
-141.	The Strange Case of Dr. Jekyll and Mr. Hyde	Robert Louis Stevenson
-142.	Robinson Crusoe	Daniel Defoe
-143.	Tender is the Night	F. Scott Fitzgerald
-144.	The Idiot	Fyodor Dostoyevsky
-145.	Hatchet	Gary Paulsen
-146.	The Kite Runner	Khaled Hosseini
-147.	One Flew Over the Cuckoo's Nest	Ken Kesey
-148.	The Portrait of a Lady	Henry James
-149.	The Outsiders	S.E. Hinton
-150.	Ben-Hur	Lew Wallace
-151.	The Mayor of Casterbridge	Thomas Hardy
-152.	Cry, The Beloved Country	Alan Paton
-153.	The Last Battle	C.S. Lewis
-154.	Captains Courageous	Rudyard Kipling
-155.	The Castle	Franz Kafka
-156.	The Metamorphosis	Franz Kafka
-157.	The Magic Mountain (Der Zauberberg)	Thomas Mann
-158.	James and the Giant Peach	Roald Dahl
-159.	The Horse and His Boy	C.S. Lewis
-160.	Angels & Demons	Dan Brown
-161.	The Voyage of the Dawn Treader	C.S. Lewis
-162.	The Bell Jar	Sylvia Plath
-163.	Women in Love	D.H. Lawrence
-164.	The Yearling	Marjorie Kinnan Rawlings
-165.	O Pioneers!	Willa Cather
-166.	The Handmaid's Tale	Margaret Atwood
-167.	The Moonstone	Wilkie Collins
-168.	The Old Curiosity Shop	Charles Dickens
-169.	Little Dorrit	Charles Dickens
-170.	Prince Caspian: The Return to Narnia	C.S. Lewis
-171.	Sister Carrie	Theodore Dreiser
-172.	The Silver Chair	C.S. Lewis
-173.	The Hunger Games	Suzanne Collins
-174.	This Side of Paradise	F. Scott Fitzgerald
-175.	Eugénie Grandet	Honoré de Balzac
-176.	Of Human Bondage	W. Somerset Maugham
-177.	Dream of the Red Chamber	Cao Xueqin
-178.	Life of Pi	Yann Martel
-179.	Harry Potter and the Deathly Hallows	J.K. Rowling
-180.	Invisible Man	Ralph Ellison
-181.	Steppenwolf	Hermann Hesse
-182.	The Sorrows of Young Werther	Johann Wolfgang von Goethe
-183.	Bridge to Terabithia	Katherine Paterson
-184.	The Invisible Man	H.G. Wells
-185.	Holes	Louis Sachar
-186.	Siddhartha	Hermann Hesse
-187.	A Tree Grows in Brooklyn	Betty Smith
-188.	Through the Looking-Glass, and What Alice Found There	Lewis Carroll
-189.	In Cold Blood	Truman Capote
-190.	The House of the Spirits	Isabel Allende
-191.	Adam Bede	George Eliot
-192.	The Betrothed	Alessandro Manzoni
-193.	The Book Thief	Markus Zusak
-194.	Their Eyes Were Watching God	Zora Neale Hurston
-195.	One Day in the Life of Ivan Denisovich	Aleksandr Isaevich Solzhenitsyn
-196.	The Sea Wolf	Jack London
-197.	Catching Fire	Suzanne Collins
-198.	Roll of Thunder, Hear My Cry	Mildred D. Taylor
-199.	Death Comes for the Archbishop	Willa Cather
-200.	The House of Mirth	Edith Wharton
-201.	Light in August	William Faulkner
-202.	The Pickwick Papers	Charles Dickens
-203.	Remembrance of Things Past	Marcel Proust
-204.	Barchester Towers and the Warden	Anthony Trollope
-205.	The Bridge of San Luis Rey	Thornton Wilder
-206.	The Help	Kathryn Stockett
-207.	Murder on the Orient Express	Agatha Christie
-208.	The Lovely Bones	Alice Sebold
-209.	The Appeal	John Grisham
-210.	Dombey And Son	Charles Dickens
-211.	Slaughterhouse-Five	Kurt Vonnegut
-212.	An American Tragedy	Theodore Dreiser
-213.	The Bluest Eye	Toni Morrison
-214.	Little House In the Big Woods	Laura Ingalls Wilder
-215.	Pippi Longstocking	Astrid Lindgren
-216.	Germinal	Émile Zola
-217.	The Heart Is a Lonely Hunter	Carson McCullers
-218.	The Woman In White	Wilkie Collins
-219.	Absalom, Absalom!	William Faulkner
-220.	A Painted House	John Grisham
-221.	The Girl With the Dragon Tattoo	Stieg Larsson
-222.	A Room With a View	E.M. Forster
-223.	Watership Down	Richard Adams
-224.	Memoirs of a Geisha	Arthur Golden
-225.	Our Mutual Friend	Charles Dickens
-226.	Babbitt	Sinclair Lewis
-227.	The Red Pony	John Steinbeck
-228.	All the King's Men	Robert Penn Warren
-229.	Things Fall Apart	Chinua Achebe
-230.	Lorna Doone	R.D. Blackmore
-231.	Johnny Tremain	Esther Forbes
-232.	Anne of Avonlea	L.M. Montgomery
-233.	Tuck Everlasting	Natalie Babbitt
-234.	The BFG	Roald Dahl
-235.	Cannery Row	John Steinbeck
-236.	The Joy Luck Club	Amy Tan
-237.	The Silmarillion	J.R.R. Tolkien
-238.	Roots	Alex Haley
-239.	Little House on the Prairie	Laura Ingalls Wilder
-240.	Native Son	Richard Wright
-241.	Stuart Little	E.B. White
-242.	Cross Fire	James Patterson
-243.	The Power and the Glory	Graham Greene
-244.	A Clockwork Orange	Anthony Burgess
-245.	The Phantom of the Opera	Gaston Leroux
-246.	The Martian Chronicles	Ray Bradbury
-247.	The Road	Cormac McCarthy
-248.	The Way of All Flesh	Samuel Butler
-249.	Diary of a Wimpy Kid: The Long Haul	Jeff Kinney
-250.	Villette	Charlotte Brontë
-251.	The Curious Incident of the Dog In the Night-Time	Mark Haddon
-252.	The Mysterious Island	Jules Verne
-253.	Song of Solomon	Toni Morrison
-254.	Nana	Émile Zola
-255.	Quo Vadis	Henryk Sienkiewicz
-256.	Main Street	Sinclair Lewis
-257.	Matilda	Roald Dahl
-258.	Lolita	Vladimir Vladimirovich Nabokov
-259.	Paper Towns	John Green
-260.	Sounder	William H. Armstrong
-261.	Are You There God? It's Me, Margaret	Judy Blume
-262.	The Notebook	Nicholas Sparks
-263.	From the Mixed-Up Files of Mrs. Basil E. Frankweiler	E.L. Konigsburg
-264.	Atlas Shrugged	Ayn Rand
-265.	The Fountainhead	Ayn Rand
-266.	Number the Stars	Lois Lowry
-267.	The Firm	John Grisham
-268.	Swann's Way	Marcel Proust
-269.	Ender's Game	Orson Scott Card
-270.	The Name of the Rose	Umberto Eco
-271.	A Time to Kill	John Grisham
-272.	Water for Elephants	Sara Gruen
-273.	The Time Machine	H.G. Wells
-274.	Eragon	Christopher Paolini
-275.	The Hitchhiker's Guide to the Galaxy	Douglas Adams
-276.	Buddenbrooks	Thomas Mann
-277.	A Thousand Splendid Suns	Khaled Hosseini
-278.	The Witch of Blackbird Pond	Elizabeth George Speare
-279.	And Then There Were None	Agatha Christie
-280.	A Separate Peace	John Knowles
-281.	Breaking Dawn	Stephenie Meyer
-282.	As I Lay Dying	William Faulkner
-283.	The Girl Who Played With Fire	Stieg Larsson
-284.	Where the Red Fern Grows	Wilson Rawls
-285.	Le Morte D'Arthur	Thomas Malory
-286.	Mockingjay	Suzanne Collins
-287.	The Pillars of the Earth	Ken Follett
-288.	Persian Letters	Montesquieu
-289.	The Client	John Grisham
-290.	Sula	Toni Morrison
-291.	Tales of a Fourth Grade Nothing	Judy Blume
-292.	The Merry Adventures of Robin Hood of Great Renown In Nottinghamshire	Howard Pyle
-293.	Tortilla Flat	John Steinbeck
-294.	Look Homeward, Angel	Thomas Wolfe
-295.	The Mystery of Edwin Drood	Charles Dickens
-296.	Brideshead Revisited	Evelyn Waugh
-297.	The Pelican Brief	John Grisham
-298.	Atonement	Ian McEwan
-299.	Washington Square	Henry James
-300.	Like Water for Chocolate	Laura Esquivel
+Don Quixote	9342368906275    	50
+Alice's Adventures in Wonderland	3257814662902    	19
+The Adventures of Huckleberry Finn	5487892218656    	13
+The Adventures of Tom Sawyer	6084846956748    	31
+Treasure Island	4728071855851    	29
+Pride and Prejudice	3693475656646    	13
+Wuthering Heights	3388138979858    	27
+Jane Eyre	3893015709876    	36
+Moby Dick	8763815039669    	30
+The Scarlet Letter	3654110853283    	38
+Gulliver's Travels	8244223829617    	47
+The Pilgrim's Progress	1250967802927    	36
+A Christmas Carol	4446093794128    	27
+David Copperfield	7715190680302    	36
+A Tale of Two Cities	2319944557981    	33
+Little Women	8938683006388    	41
+Great Expectations	7975985442581    	35
+The Hobbit, or, There and Back Again	6630699157409    	45
+Frankenstein, or, the Modern Prometheus	2090024811403    	36
+Oliver Twist	5492826441875    	22
+Uncle Tom's Cabin	3878556418480    	47
+Crime and Punishment	8348784366033    	37
+Madame Bovary: Patterns of Provincial life	3865140361321    	26
+The Return of the King	9357529006947    	50
+Dracula	9991274271434    	31
+The Three Musketeers	4994008482756    	34
+Brave New World	2650140138880    	46
+War and Peace	3332336131700    	11
+To Kill a Mockingbird	7001953660399    	33
+The Wizard of Oz	6308884077753    	27
+Les Misérables	2328703641457    	35
+The Secret Garden	2843447775573    	40
+Animal Farm	9391108251174    	38
+The Great Gatsby	5134532405044    	35
+The Little Prince	7611697097236    	21
+The Call of the Wild	6835555305649    	45
+20,000 Leagues Under the Sea	7248603663507    	42
+Anna Karenina	3722217652973    	30
+The Wind in the Willows	9394749521357    	15
+The Picture of Dorian Gray	5806994278418    	43
+The Grapes of Wrath	3586846373478    	24
+Sense and Sensibility	8029543854890    	31
+The Last of the Mohicans	3338109635404    	45
+Tess of the d'Urbervilles	3150252982668    	42
+Harry Potter and the Sorcerer's Stone	8144209207622    	41
+Heidi	5980355565015    	22
+Ulysses	5756829699038    	21
+The Complete Sherlock Holmes	1811269979670    	49
+The Count of Monte Cristo	1440613044281    	46
+The Old Man and the Sea	6450616991218    	33
+The Lion, the Witch, and the Wardrobe	8929915532253    	31
+The Hunchback of Notre Dame	6099571585014    	9
+Pinocchio	4879001004782    	50
+One Hundred Years of Solitude	5694894899243    	45
+Ivanhoe	1524086319839    	31
+The Red Badge of Courage	8796377625776    	13
+Anne of Green Gables	1097584937639    	13
+Black Beauty	4107373205938    	19
+Peter Pan	3130596129779    	10
+A Farewell to Arms	3706173400421    	13
+The House of the Seven Gables	2294251933079    	29
+Lord of the Flies	8402807317341    	26
+The Prince and the Pauper	9935883048933    	17
+A Portrait of the Artist as a Young Man	8449584019814    	21
+Lord Jim	3366489006767    	25
+Harry Potter and the Chamber of Secrets	4835697496783    	25
+The Red & the Black	6583111202043    	20
+The Stranger	5264199565432    	20
+The Trial	8813047649868    	40
+Lady Chatterley's Lover	8081702559578    	19
+Kidnapped: The Adventures of David Balfour	7316032339661    	45
+The Catcher in the Rye	7791728685235    	13
+Fahrenheit 451	7876541095258    	40
+A Journey to the Center of the Earth	2414771484894    	32
+Vanity Fair	8177652545822    	10
+All Quiet on the Western Front	8507139867731    	9
+Gone with the Wind	6873895765508    	24
+My Ántonia	7846105178520    	28
+Of Mice and Men	6026043126921    	26
+The Vicar of Wakefield	6606601055456    	37
+A Connecticut Yankee in King Arthur's Court	1584312984742    	13
+White Fang	3437130178540    	29
+Fathers and Sons	6343193218170    	28
+Doctor Zhivago	5355816535192    	15
+The Decameron	8086900765407    	47
+Nineteen Eighty-Four	8093500712293    	12
+The Jungle	6809790665862    	25
+The Da Vinci Code	2452707026027    	44
+Persuasion	7488114739212    	18
+Mansfield Park	6872795565849    	19
+Candide	3255904606846    	27
+For Whom the Bell Tolls	7171570242258    	27
+Far from the Madding Crowd	6699226466319    	25
+The Fellowship of the Ring	2767310237163    	35
+The Return of the Native	4386270003169    	27
+Sons and Lovers	5006120059105    	45
+Charlotte's Web	9461426486567    	32
+The Swiss Family Robinson	5713820534918    	32
+Bleak House	5992311160965    	44
+Père Goriot	6595787091973    	43
+Utopia	3557263540472    	18
+The History of Tom Jones, a Foundling	2148596480942    	15
+Harry Potter and the Prisoner of Azkaban	8288527057017    	21
+Kim	2687935082537    	50
+The Sound and the Fury	9028137385204    	47
+Harry Potter and the Goblet of Fire	2011479991550    	16
+The Mill on the Floss	7308649414234    	18
+A Wrinkle in Time	7623253468855    	9
+The Hound of the Baskervilles	2057726687266    	40
+The Two Towers	5956396480220    	41
+The War of the Worlds	8995585755393    	42
+Middlemarch	6414557476860    	35
+The Age of Innocence	2541089758694    	31
+The Color Purple	2628287221202    	44
+Northanger Abbey	2296481941891    	12
+East of Eden	6237057788145    	24
+On the Road	5826515512630    	43
+Catch-22	6672655065320    	23
+Around the World in Eighty Days	5105503169705    	22
+Hard Times	2257092199932    	43
+Beloved	7582400541763    	30
+Mrs. Dalloway	2773299030572    	21
+To the Lighthouse	2402811492639    	35
+The Magician's Nephew	8113280529485    	43
+Harry Potter and the Order of the Phoenix	4284643041420    	26
+The Sun Also Rises	5197497156202    	30
+The Good Earth	1274282850589    	36
+Silas Marner	3012189698360    	36
+Love in the Time of Cholera	5846734110658    	36
+Rebecca	6574558700706    	18
+Jude the Obscure	4920413420549    	17
+Twilight	6839584744174    	43
+A Passage to India	5641746408839    	34
+The Plague	9824704911375    	30
+Nicholas Nickleby	7738625536062    	46
+The Pearl	8615969251085    	23
+Ethan Frome	2105134820228    	16
+The Tale of Genji	5136610835849    	33
+The Giver	5474908059128    	26
+The Alchemist	5170317947181    	24
+The Strange Case of Dr. Jekyll and Mr. Hyde	3964506511997    	12
+Robinson Crusoe	4603670636155    	44
+Tender is the Night	4035454050224    	44
+The Idiot	8089344374964    	41
+Hatchet	8418202527480    	37
+The Kite Runner	6781124429692    	41
+One Flew Over the Cuckoo's Nest	2663440358981    	20
+The Portrait of a Lady	3115410067738    	30
+The Outsiders	4340819359148    	28
+Ben-Hur	5484475454282    	44
+The Mayor of Casterbridge	5869002404047    	41
+Cry, The Beloved Country	1526308466082    	48
+The Last Battle	3549893750029    	18
+Captains Courageous	9062510515391    	45
+The Castle	2237350590020    	39
+The Metamorphosis	8316464125209    	11
+The Magic Mountain (Der Zauberberg)	7732363542075    	28
+James and the Giant Peach	7156806281407    	36
+The Horse and His Boy	2877541488210    	27
+Angels & Demons	9439322436769    	42
+The Voyage of the Dawn Treader	8195356950966    	38
+The Bell Jar	5173342738425    	21
+Women in Love	6071818064238    	30
+The Yearling	2771605824013    	31
+O Pioneers!	5937042034107    	24
+The Handmaid's Tale	6797734273839    	35
+The Moonstone	3302790724271    	29
+The Old Curiosity Shop	1424525510432    	23
+Little Dorrit	5638858862203    	30
+Prince Caspian: The Return to Narnia	2822316704795    	48
+Sister Carrie	1482498541827    	48
+The Silver Chair	6210810578188    	42
+The Hunger Games	8965900436659    	40
+This Side of Paradise	7935807362557    	21
+Eugénie Grandet	6061855351889    	9
+Of Human Bondage	3399438536559    	12
+Dream of the Red Chamber	1321183072447    	31
+Life of Pi	9698518723420    	35
+Harry Potter and the Deathly Hallows	3603443313648    	11
+Invisible Man	6540552181806    	32
+Steppenwolf	1293827626525    	13
+The Sorrows of Young Werther	7907766102466    	22
+Bridge to Terabithia	5687532693555    	36
+The Invisible Man	2498400010536    	19
+Holes	5481046886443    	10
+Siddhartha	8548430862907    	25
+A Tree Grows in Brooklyn	4399931941203    	18
+Through the Looking-Glass, and What Alice Found There	7910650461616    	44
+In Cold Blood	4903753363408    	48
+The House of the Spirits	5817921696161    	45
+Adam Bede	1752741845626    	10
+The Betrothed	9512657080790    	27
+The Book Thief	8612916090892    	14
+Their Eyes Were Watching God	4980060998564    	26
+One Day in the Life of Ivan Denisovich	7308413584280    	38
+The Sea Wolf	2830919725233    	41
+Catching Fire	3379082810371    	13
+Roll of Thunder, Hear My Cry	5708041542344    	29
+Death Comes for the Archbishop	9971554563915    	9
+The House of Mirth	1987867246191    	42
+Light in August	5326260520991    	32
+The Pickwick Papers	2895068672897    	32
+Remembrance of Things Past	6210441252375    	27
+Barchester Towers and the Warden	7350146291784    	32
+The Bridge of San Luis Rey	7669376469470    	22
+The Help	4122087464861    	42
+Murder on the Orient Express	9651026040323    	30
+The Lovely Bones	5295516023437    	10
+The Appeal	3714674801125    	32
+Dombey And Son	3683792945820    	33
+Slaughterhouse-Five	5656926545997    	11
+An American Tragedy	2122185494003    	47
+The Bluest Eye	8738179633532    	22
+Little House In the Big Woods	6838249800948    	43
+Pippi Longstocking	8631190420665    	42
+Germinal	8727576775348    	28
+The Heart Is a Lonely Hunter	2526626893426    	16
+The Woman In White	4093659159968    	9
+Absalom, Absalom!	9039616243571    	47
+A Painted House	8695913952014    	13
+The Girl With the Dragon Tattoo	8967617618611    	32
+A Room With a View	5193129314610    	42
+Watership Down	3895542147665    	25
+Memoirs of a Geisha	4401461006778    	39
+Our Mutual Friend	8105897043533    	18
+Babbitt	5617992815659    	14
+The Red Pony	6713144045330    	47
+All the King's Men	7111791996332    	16
+Things Fall Apart	1041800028260    	28
+Lorna Doone	6740025096496    	19
+Johnny Tremain	6149412020095    	34
+Anne of Avonlea	1845408584247    	38
+Tuck Everlasting	2881998073394    	34
+The BFG	3806833780560    	47
+Cannery Row	3047544673628    	13
+The Joy Luck Club	4994357947737    	28
+The Silmarillion	2365627946857    	15
+Roots	9276950997254    	34
+Little House on the Prairie	2680785558150    	45
+Native Son	3224017698746    	44
+Stuart Little	7696256905422    	42
+Cross Fire	2584083398484    	13
+The Power and the Glory	6446236091994    	37
+A Clockwork Orange	5639959197839    	10
+The Phantom of the Opera	6402611804588    	21
+The Martian Chronicles	8810164113034    	29
+The Road	8624533633329    	38
+The Way of All Flesh	6845824667427    	34
+Diary of a Wimpy Kid: The Long Haul	1281069737066    	25
+Villette	3881258944841    	43
+The Curious Incident of the Dog In the Night-Time	4201362197307    	13
+The Mysterious Island	2044322902175    	30
+Song of Solomon	8471394947888    	31
+Nana	3276553876467    	35
+Quo Vadis	7493328222899    	47
+Main Street	9934470702603    	35
+Matilda	7188489290583    	16
+Lolita	3800008114915    	16
+Paper Towns	8021667312053    	39
+Sounder	2085529836227    	48
+Are You There God? It's Me, Margaret	4815531539829    	46
+The Notebook	6528858798920    	18
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler	5281830451220    	9
+Atlas Shrugged	8223745863249    	15
+The Fountainhead	8295242073118    	21
+Number the Stars	7344177548778    	36
+The Firm	7846359133415    	31
+Swann's Way	6356170065379    	25
+Ender's Game	4515295143656    	22
+The Name of the Rose	4357939353713    	23
+A Time to Kill	7390379221911    	13
+Water for Elephants	4776914656861    	45
+The Time Machine	7156232273519    	50
+Eragon	8020074347337    	18
+The Hitchhiker's Guide to the Galaxy	6652174028187    	46
+Buddenbrooks	1660145987706    	42
+A Thousand Splendid Suns	6833495900431    	12
+The Witch of Blackbird Pond	2917139231691    	30
+And Then There Were None	4062118133743    	16
+A Separate Peace	8149210736816    	32
+Breaking Dawn	4087991224588    	9
+As I Lay Dying	4443146147656    	22
+The Girl Who Played With Fire	1461120077251    	29
+Where the Red Fern Grows	6103545914519    	35
+Le Morte D'Arthur	6098047643447    	47
+Mockingjay	5900990245557    	24
+The Pillars of the Earth	2343034774752    	15
+Persian Letters	9934513151385    	46
+The Client	6897566915509    	29
+Sula	8834651449704    	15
+Tales of a Fourth Grade Nothing	1061481805782    	33
+The Merry Adventures of Robin Hood of Great Renown In Nottinghamshire	7245835983118    	47
+Tortilla Flat	1163022108235    	38
+Look Homeward, Angel	7187833139274    	46
+The Mystery of Edwin Drood	9670161387497    	31
+Brideshead Revisited	4379988499680    	15
+The Pelican Brief	2163728364654    	15
+Atonement	6378400065915    	11
+Washington Square	4061224786937    	20
+Like Water for Chocolate	6054890806064    	27

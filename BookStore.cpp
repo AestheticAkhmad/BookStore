@@ -10,3 +10,10 @@
 BookStore::BookStore() {
     BookDataCollector bookDataCollector(books, booksByTitle, booksByISBN);
 }
+
+void BookStore::ListAll() const {
+    std::cout<<"Number of titles available: "<<books.size()<<"\n";
+    for(auto i : books) {
+        std::cout<<i->GetTitle()<<"\t\tPrice: "<<i->GetPrice()<<"\n";
+    }
+}

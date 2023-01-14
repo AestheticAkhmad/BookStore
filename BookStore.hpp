@@ -22,12 +22,12 @@ class BookStore {
 private:
     std::vector<std::shared_ptr<Book>> books{};
     std::map<std::string, std::shared_ptr<Book>> booksByTitle{};
-    std::map<uint64_t, std::shared_ptr<Book>> booksByISBN{};
+    std::map<uint32_t, std::shared_ptr<Book>> booksByISBN{};
 public:
     BookStore();
     void ListAll() const;
-    void FindBook(const std::string &title) const;
-    void FindBook(const uint64_t ISBN) const;
+    //void FindBook(const std::string &title) const;
+    //void FindBook(const uint32_t ISBN) const;
     
 };
 

@@ -14,6 +14,8 @@ BookStore::BookStore() {
 void BookStore::ListAll() const {
     std::cout<<"Number of titles available: "<<books.size()<<"\n";
     for(auto i : books) {
-        std::cout<<i->GetTitle()<<"\t\tPrice: "<<i->GetPrice()<<"\n";
+        std::cout<<"Title: "<<i->GetTitle()<<"\t| By "<<i->GetAuthor()<<"\n";
+        std::cout<<"Price: $"<<i->GetPrice()<<"\t| ISBN: "<<i->GetISBN()<<"\n";
+        std::cout<<"-----------------------\n";
     }
 }

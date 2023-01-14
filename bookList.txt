@@ -1,300 +1,300 @@
-Don_Quixote	100016	50
-Alice's_Adventures_in_Wonderland	100233	19
-The_Adventures_of_Huckleberry_Finn	100160	13
-The_Adventures_of_Tom_Sawyer	100134	31
-Treasure_Island	100186	29
-Pride_and_Prejudice	100217	13
-Wuthering_Heights	100226	27
-Jane_Eyre	100208	36
-Moby_Dick	100030	30
-The_Scarlet_Letter	100219	38
-Gulliver's_Travels	100048	47
-The_Pilgrim's_Progress	100296	36
-A_Christmas_Carol	100189	27
-David_Copperfield	100073	36
-A_Tale_of_Two_Cities	100266	33
-Little_Women	100024	41
-Great_Expectations	100063	35
-The_Hobbit,_or,_There_and_Back_Again	100112	45
-Frankenstein,_or,_the_Modern_Prometheus	100275	36
-Oliver_Twist	100159	22
-Uncle_Tom's_Cabin	100210	47
-Crime_and_Punishment	100044	37
-Madame_Bovary:_Patterns_of_Provincial_life	100211	26
-The_Return_of_the_King	100015	50
-Dracula	100001	31
-The_Three_Musketeers	100178	34
-Brave_New_World	100254	46
-War_and_Peace	100230	11
-To_Kill_a_Mockingbird	100095	33
-The_Wizard_of_Oz	100126	27
-Les_Misérables	100265	35
-The_Secret_Garden	100245	40
-Animal_Farm	100014	38
-The_Great_Gatsby	100174	35
-The_Little_Prince	100077	21
-The_Call_of_the_Wild	100102	45
-20,000_Leagues_Under_the_Sea	100087	42
-Anna_Karenina	100214	30
-The_Wind_in_the_Willows	100013	15
-The_Picture_of_Dorian_Gray	100148	43
-The_Grapes_of_Wrath	100221	24
-Sense_and_Sensibility	100060	31
-The_Last_of_the_Mohicans	100229	45
-Tess_of_the_d'Urbervilles	100236	42
-Harry_Potter_and_the_Sorcerer's_Stone	100053	41
-Heidi	100140	22
-Ulysses	100149	21
-The_Complete_Sherlock_Holmes	100282	49
-The_Count_of_Monte_Cristo	100290	46
-The_Old_Man_and_the_Sea	100119	33
-The_Lion,_the_Witch,_and_the_Wardrobe	100025	31
-The_Hunchback_of_Notre_Dame	100132	9
-Pinocchio	100182	50
-One_Hundred_Years_of_Solitude	100152	45
-Ivanhoe	100287	31
-The_Red_Badge_of_Courage	100029	13
-Anne_of_Green_Gables	100298	13
-Black_Beauty	100200	19
-Peter_Pan	100237	10
-A_Farewell_to_Arms	100216	13
-The_House_of_the_Seven_Gables	100268	29
-Lord_of_the_Flies	100043	26
-The_Prince_and_the_Pauper	100003	17
-A_Portrait_of_the_Artist_as_a_Young_Man	100041	21
-Lord_Jim	100228	25
-Harry_Potter_and_the_Chamber_of_Secrets	100183	25
-The_Red_&_the_Black	100115	20
-The_Stranger	100168	20
-The_Trial	100027	40
-Lady_Chatterley's_Lover	100059	19
-Kidnapped:_The_Adventures_of_David_Balfour	100084	45
-The_Catcher_in_the_Rye	100070	13
-Fahrenheit_451	100067	40
-A_Journey_to_the_Center_of_the_Earth	100261	32
-Vanity_Fair	100051	10
-All_Quiet_on_the_Western_Front	100039	9
-Gone_with_the_Wind	100097	24
-My_Ántonia	100069	28
-Of_Mice_and_Men	100138	26
-The_Vicar_of_Wakefield	100113	37
-A_Connecticut_Yankee_in_King_Arthur's_Court	100285	13
-White_Fang	100224	29
-Fathers_and_Sons	100125	28
-Doctor_Zhivago	100164	15
-The_Decameron	100058	47
-Nineteen_Eighty-Four	100056	12
-The_Jungle	100104	25
-The_Da_Vinci_Code	100260	44
-Persuasion	100080	18
-Mansfield_Park	100098	19
-Candide	100234	27
-For_Whom_the_Bell_Tolls	100091	27
-Far_from_the_Madding_Crowd	100109	25
-The_Fellowship_of_the_Ring	100250	35
-The_Return_of_the_Native	100193	27
-Sons_and_Lovers	100176	45
-Charlotte's_Web	100011	32
-The_Swiss_Family_Robinson	100150	32
-Bleak_House	100139	44
-Père_Goriot	100114	43
-Utopia	100222	18
-The_History_of_Tom_Jones,_a_Foundling	100272	15
-Harry_Potter_and_the_Prisoner_of_Azkaban	100047	21
-Kim	100251	50
-The_Sound_and_the_Fury	100020	47
-Harry_Potter_and_the_Goblet_of_Fire	100279	16
-The_Mill_on_the_Floss	100085	18
-A_Wrinkle_in_Time	100076	9
-The_Hound_of_the_Baskervilles	100277	40
-The_Two_Towers	100141	41
-The_War_of_the_Worlds	100021	42
-Middlemarch	100121	35
-The_Age_of_Innocence	100257	31
-The_Color_Purple	100255	44
-Northanger_Abbey	100267	12
-East_of_Eden	100127	24
-On_the_Road	100146	43
-Catch-22	100110	23
-Around_the_World_in_Eighty_Days	100175	22
-Hard_Times	100269	43
-Beloved	100078	30
-Mrs._Dalloway	100248	21
-To_the_Lighthouse	100262	35
-The_Magician's_Nephew	100054	43
-Harry_Potter_and_the_Order_of_the_Phoenix	100197	26
-The_Sun_Also_Rises	100169	30
-The_Good_Earth	100295	36
-Silas_Marner	100240	36
-Love_in_the_Time_of_Cholera	100145	36
-Rebecca	100116	18
-Jude_the_Obscure	100180	17
-Twilight	100100	43
-A_Passage_to_India	100155	34
-The_Plague	100006	30
-Nicholas_Nickleby	100071	46
-The_Pearl	100036	23
-Ethan_Frome	100274	16
-The_Tale_of_Genji	100173	33
-The_Giver	100163	26
-The_Alchemist	100172	24
-The_Strange_Case_of_Dr._Jekyll_and_Mr._Hyde	100206	12
-Robinson_Crusoe	100187	44
-Tender_is_the_Night	100205	44
-The_Idiot	100057	41
-Hatchet	100042	37
-The_Kite_Runner	100106	41
-One_Flew_Over_the_Cuckoo's_Nest	100253	20
-The_Portrait_of_a_Lady	100238	30
-The_Outsiders	100196	28
-Ben-Hur	100161	44
-The_Mayor_of_Casterbridge	100144	41
-Cry,_The_Beloved_Country	100286	48
-The_Last_Battle	100223	18
-Captains_Courageous	100018	45
-The_Castle	100270	39
-The_Metamorphosis	100045	11
-The_Magic_Mountain_(Der_Zauberberg)	100072	28
-James_and_the_Giant_Peach	100092	36
-The_Horse_and_His_Boy	100244	27
-Angels_&_Demons	100012	42
-The_Voyage_of_the_Dawn_Treader	100050	38
-The_Bell_Jar	100171	21
-Women_in_Love	100135	30
-The_Yearling	100249	31
-O_Pioneers!	100142	24
-The_Handmaid's_Tale	100105	35
-The_Moonstone	100231	29
-The_Old_Curiosity_Shop	100291	23
-Little_Dorrit	100157	30
-Prince_Caspian:_The_Return_to_Narnia	100247	48
-Sister_Carrie	100288	48
-The_Silver_Chair	100128	42
-The_Hunger_Games	100023	40
-This_Side_of_Paradise	100064	21
-Eugénie_Grandet	100136	9
-Of_Human_Bondage	100225	12
-Dream_of_the_Red_Chamber	100292	31
-Life_of_Pi	100007	35
-Harry_Potter_and_the_Deathly_Hallows	100220	11
-Invisible_Man	100117	32
-Steppenwolf	100293	13
-The_Sorrows_of_Young_Werther	100066	22
-Bridge_to_Terabithia	100153	36
-The_Invisible_Man	100259	19
-Holes	100162	10
-Siddhartha	100038	25
-A_Tree_Grows_in_Brooklyn	100192	18
-Through_the_Looking-Glass,_and_What_Alice_Found_There	100065	44
-In_Cold_Blood	100181	48
-The_House_of_the_Spirits	100147	45
-Adam_Bede	100283	10
-The_Betrothed	100010	27
-The_Book_Thief	100037	14
-Their_Eyes_Were_Watching_God	100179	26
-One_Day_in_the_Life_of_Ivan_Denisovich	100086	38
-The_Sea_Wolf	100246	41
-Catching_Fire	100227	13
-Roll_of_Thunder,_Hear_My_Cry	100151	29
-Death_Comes_for_the_Archbishop	100002	9
-The_House_of_Mirth	100280	42
-Light_in_August	100165	32
-The_Pickwick_Papers	100242	32
-Remembrance_of_Things_Past	100129	27
-Barchester_Towers_and_the_Warden	100082	32
-The_Bridge_of_San_Luis_Rey	100075	22
-The_Help	100199	42
-Murder_on_the_Orient_Express	100009	30
-The_Lovely_Bones	100166	10
-The_Appeal	100215	32
-Dombey_And_Son	100218	33
-Slaughterhouse-Five	100154	11
-An_American_Tragedy	100273	47
-The_Bluest_Eye	100031	22
-Little_House_In_the_Big_Woods	100101	43
-Pippi_Longstocking	100034	42
-Germinal	100032	28
-The_Heart_Is_a_Lonely_Hunter	100258	16
-The_Woman_In_White	100201	9
-Absalom,_Absalom!	100019	47
-A_Painted_House	100033	13
-The_Girl_With_the_Dragon_Tattoo	100022	32
-A_Room_With_a_View	100170	42
-Watership_Down	100207	25
-Memoirs_of_a_Geisha	100191	39
-Our_Mutual_Friend	100055	18
-Babbitt	100158	14
-The_Red_Pony	100108	47
-All_the_King's_Men	100094	16
-Things_Fall_Apart	100300	28
-Lorna_Doone	100107	19
-Johnny_Tremain	100130	34
-Anne_of_Avonlea	100281	38
-Tuck_Everlasting	100243	34
-The_BFG	100212	47
-Cannery_Row	100239	13
-The_Joy_Luck_Club	100177	28
-The_Silmarillion	100263	15
-Roots	100017	34
-Little_House_on_the_Prairie	100252	45
-Native_Son	100235	44
-Stuart_Little	100074	42
-Cross_Fire	100256	13
-The_Power_and_the_Glory	100120	37
-A_Clockwork_Orange	100156	10
-The_Phantom_of_the_Opera	100122	21
-The_Martian_Chronicles	100028	29
-The_Road	100035	38
-The_Way_of_All_Flesh	100099	34
-Diary_of_a_Wimpy_Kid:_The_Long_Haul	100294	25
-Villette	100209	43
-The_Curious_Incident_of_the_Dog_In_the_Night-Time	100198	13
-The_Mysterious_Island	100278	30
-Song_of_Solomon	100040	31
-Nana	100232	35
-Quo_Vadis	100079	47
-Main_Street	100005	35
-Matilda	100089	16
-Lolita	100213	16
-Paper_Towns	100061	39
-Sounder	100276	48
-Are_You_There_God?_It's_Me,_Margaret	100184	46
-The_Notebook	100118	18
-From_the_Mixed-Up_Files_of_Mrs._Basil_E._Frankweiler	100167	9
-Atlas_Shrugged	100049	15
-The_Fountainhead	100046	21
-Number_the_Stars	100083	36
-The_Firm	100068	31
-Swann's_Way	100124	25
-Ender's_Game	100188	22
-The_Name_of_the_Rose	100195	23
-A_Time_to_Kill	100081	13
-Water_for_Elephants	100185	45
-The_Time_Machine	100093	50
-Eragon	100062	18
-The_Hitchhiker's_Guide_to_the_Galaxy	100111	46
-Buddenbrooks	100284	42
-A_Thousand_Splendid_Suns	100103	12
-The_Witch_of_Blackbird_Pond	100241	30
-And_Then_There_Were_None	100203	16
-A_Separate_Peace	100052	32
-Breaking_Dawn	100202	9
-As_I_Lay_Dying	100190	22
-The_Girl_Who_Played_With_Fire	100289	29
-Where_the_Red_Fern_Grows	100131	35
-Le_Morte_D'Arthur	100133	47
-Mockingjay	100143	24
-The_Pillars_of_the_Earth	100264	15
-Persian_Letters	100004	46
-The_Client	100096	29
-Sula	100026	15
-Tales_of_a_Fourth_Grade_Nothing	100299	33
-The_Merry_Adventures_of_Robin_Hood_of_Great_Renown_In_Nottinghamshire	100088	47
-Tortilla_Flat	100297	38
-Look_Homeward,_Angel	100090	46
-The_Mystery_of_Edwin_Drood	100008	31
-Brideshead_Revisited	100194	15
-The_Pelican_Brief	100271	15
-Atonement	100123	11
-Washington_Square	100204	20
-Like_Water_for_Chocolate	100137	27
+DON_QUIXOTE	Miguel_de_Cervantes	100016	50
+ALICE'S_ADVENTURES_IN_WONDERLAND	Lewis_Carroll	100233	19
+THE_ADVENTURES_OF_HUCKLEBERRY_FINN	Mark_Twain	100160	13
+THE_ADVENTURES_OF_TOM_SAWYER	Mark_Twain	100134	31
+TREASURE_ISLAND	Robert_Louis_Stevenson	100186	29
+PRIDE_AND_PREJUDICE	Jane_Austen	100217	13
+WUTHERING_HEIGHTS	Emily_Brontë	100226	27
+JANE_EYRE	Charlotte_Brontë	100208	36
+MOBY_DICK	Herman_Melville	100030	30
+THE_SCARLET_LETTER	Nathaniel_Hawthorne	100219	38
+GULLIVER'S_TRAVELS	Jonathan_Swift	100048	47
+THE_PILGRIM'S_PROGRESS	John_Bunyan	100296	36
+A_CHRISTMAS_CAROL	Charles_Dickens	100189	27
+DAVID_COPPERFIELD	Charles_Dickens	100073	36
+A_TALE_OF_TWO_CITIES	Charles_Dickens	100266	33
+LITTLE_WOMEN	Louisa_May_Alcott	100024	41
+GREAT_EXPECTATIONS	Charles_Dickens	100063	35
+THE_HOBBIT,_OR,_THERE_AND_BACK_AGAIN	J.R.R._Tolkien	100112	45
+FRANKENSTEIN,_OR,_THE_MODERN_PROMETHEUS	Mary_Shelley	100275	36
+OLIVER_TWIST	Charles_Dickens	100159	22
+UNCLE_TOM'S_CABIN	Harriet_Beecher_Stowe	100210	47
+CRIME_AND_PUNISHMENT	Fyodor_Dostoyevsky	100044	37
+MADAME_BOVARY:_PATTERNS_OF_PROVINCIAL_LIFE	Gustave_Flaubert	100211	26
+THE_RETURN_OF_THE_KING	J.R.R._Tolkien	100015	50
+DRACULA	Bram_Stoker	100001	31
+THE_THREE_MUSKETEERS	Alexandre_Dumas	100178	34
+BRAVE_NEW_WORLD	Aldous_Huxley	100254	46
+WAR_AND_PEACE	Leo_Tolstoy	100230	11
+TO_KILL_A_MOCKINGBIRD	Harper_Lee	100095	33
+THE_WIZARD_OF_OZ	L._Frank_Baum	100126	27
+LES_MISéRABLES	Victor_Hugo	100265	35
+THE_SECRET_GARDEN	Frances_Hodgson_Burnett	100245	40
+ANIMAL_FARM	George_Orwell	100014	38
+THE_GREAT_GATSBY	F._Scott_Fitzgerald	100174	35
+THE_LITTLE_PRINCE	Antoine_de_Saint-Exupéry	100077	21
+THE_CALL_OF_THE_WILD	Jack_London	100102	45
+20,000_LEAGUES_UNDER_THE_SEA	Jules_Verne	100087	42
+ANNA_KARENINA	Leo_Tolstoy	100214	30
+THE_WIND_IN_THE_WILLOWS	Kenneth_Grahame	100013	15
+THE_PICTURE_OF_DORIAN_GRAY	Oscar_Wilde	100148	43
+THE_GRAPES_OF_WRATH	John_Steinbeck	100221	24
+SENSE_AND_SENSIBILITY	Jane_Austen	100060	31
+THE_LAST_OF_THE_MOHICANS	James_Fenimore_Cooper	100229	45
+TESS_OF_THE_D'URBERVILLES	Thomas_Hardy	100236	42
+HARRY_POTTER_AND_THE_SORCERER'S_STONE	J.K._Rowling	100053	41
+HEIDI	Johanna_Spyri	100140	22
+ULYSSES	James_Joyce	100149	21
+THE_COMPLETE_SHERLOCK_HOLMES	Arthur_Conan_Doyle	100282	49
+THE_COUNT_OF_MONTE_CRISTO	Alexandre_Dumas	100290	46
+THE_OLD_MAN_AND_THE_SEA	Ernest_Hemingway	100119	33
+THE_LION,_THE_WITCH,_AND_THE_WARDROBE	C.S._Lewis	100025	31
+THE_HUNCHBACK_OF_NOTRE_DAME	Victor_Hugo	100132	9
+PINOCCHIO	Carlo_Collodi	100182	50
+ONE_HUNDRED_YEARS_OF_SOLITUDE	Gabriel_García_Márquez	100152	45
+IVANHOE	Walter_Scott	100287	31
+THE_RED_BADGE_OF_COURAGE	Stephen_Crane	100029	13
+ANNE_OF_GREEN_GABLES	L.M._Montgomery	100298	13
+BLACK_BEAUTY	Anna_Sewell	100200	19
+PETER_PAN	J.M._Barrie	100237	10
+A_FAREWELL_TO_ARMS	Ernest_Hemingway	100216	13
+THE_HOUSE_OF_THE_SEVEN_GABLES	Nathaniel_Hawthorne	100268	29
+LORD_OF_THE_FLIES	William_Golding	100043	26
+THE_PRINCE_AND_THE_PAUPER	Mark_Twain	100003	17
+A_PORTRAIT_OF_THE_ARTIST_AS_A_YOUNG_MAN	James_Joyce	100041	21
+LORD_JIM	Joseph_Conrad	100228	25
+HARRY_POTTER_AND_THE_CHAMBER_OF_SECRETS	J.K._Rowling	100183	25
+THE_RED_&_THE_BLACK	Stendhal	100115	20
+THE_STRANGER	Albert_Camus	100168	20
+THE_TRIAL	Franz_Kafka	100027	40
+LADY_CHATTERLEY'S_LOVER	D.H._Lawrence	100059	19
+KIDNAPPED:_THE_ADVENTURES_OF_DAVID_BALFOUR	Robert_Louis_Stevenson	100084	45
+THE_CATCHER_IN_THE_RYE	J.D._Salinger	100070	13
+FAHRENHEIT_451	Ray_Bradbury	100067	40
+A_JOURNEY_TO_THE_CENTER_OF_THE_EARTH	Jules_Verne	100261	32
+VANITY_FAIR	William_Makepeace_Thackeray	100051	10
+ALL_QUIET_ON_THE_WESTERN_FRONT	Erich_Maria_Remarque	100039	9
+GONE_WITH_THE_WIND	Margaret_Mitchell	100097	24
+MY_ÁNTONIA	Willa_Cather	100069	28
+OF_MICE_AND_MEN	John_Steinbeck	100138	26
+THE_VICAR_OF_WAKEFIELD	Oliver_Goldsmith	100113	37
+A_CONNECTICUT_YANKEE_IN_KING_ARTHUR'S_COURT	Mark_Twain	100285	13
+WHITE_FANG	Jack_London	100224	29
+FATHERS_AND_SONS	Ivan_Sergeevich_Turgenev	100125	28
+DOCTOR_ZHIVAGO	Boris_Leonidovich_Pasternak	100164	15
+THE_DECAMERON	Giovanni_Boccaccio	100058	47
+NINETEEN_EIGHTY-FOUR	George_Orwell	100056	12
+THE_JUNGLE	Upton_Sinclair	100104	25
+THE_DA_VINCI_CODE	Dan_Brown	100260	44
+PERSUASION	Jane_Austen	100080	18
+MANSFIELD_PARK	Jane_Austen	100098	19
+CANDIDE	Voltaire	100234	27
+FOR_WHOM_THE_BELL_TOLLS	Ernest_Hemingway	100091	27
+FAR_FROM_THE_MADDING_CROWD	Thomas_Hardy	100109	25
+THE_FELLOWSHIP_OF_THE_RING	J.R.R._Tolkien	100250	35
+THE_RETURN_OF_THE_NATIVE	Thomas_Hardy	100193	27
+SONS_AND_LOVERS	D.H._Lawrence	100176	45
+CHARLOTTE'S_WEB	E.B._White	100011	32
+THE_SWISS_FAMILY_ROBINSON	Johann_David_Wyss	100150	32
+BLEAK_HOUSE	Charles_Dickens	100139	44
+PèRE_GORIOT	Honoré_de_Balzac	100114	43
+UTOPIA	Thomas_More	100222	18
+THE_HISTORY_OF_TOM_JONES,_A_FOUNDLING	Henry_Fielding	100272	15
+HARRY_POTTER_AND_THE_PRISONER_OF_AZKABAN	J.K._Rowling	100047	21
+KIM	Rudyard_Kipling	100251	50
+THE_SOUND_AND_THE_FURY	William_Faulkner	100020	47
+HARRY_POTTER_AND_THE_GOBLET_OF_FIRE	J.K._Rowling	100279	16
+THE_MILL_ON_THE_FLOSS	George_Eliot	100085	18
+A_WRINKLE_IN_TIME	Madeleine_L'Engle	100076	9
+THE_HOUND_OF_THE_BASKERVILLES	Arthur_Conan_Doyle	100277	40
+THE_TWO_TOWERS	J.R.R._Tolkien	100141	41
+THE_WAR_OF_THE_WORLDS	H.G._Wells	100021	42
+MIDDLEMARCH	George_Eliot	100121	35
+THE_AGE_OF_INNOCENCE	Edith_Wharton	100257	31
+THE_COLOR_PURPLE	Alice_Walker	100255	44
+NORTHANGER_ABBEY	Jane_Austen	100267	12
+EAST_OF_EDEN	John_Steinbeck	100127	24
+ON_THE_ROAD	Jack_Kerouac	100146	43
+CATCH-22	Joseph_Heller	100110	23
+AROUND_THE_WORLD_IN_EIGHTY_DAYS	Jules_Verne	100175	22
+HARD_TIMES	Charles_Dickens	100269	43
+BELOVED	Toni_Morrison	100078	30
+MRS._DALLOWAY	Virginia_Woolf	100248	21
+TO_THE_LIGHTHOUSE	Virginia_Woolf	100262	35
+THE_MAGICIAN'S_NEPHEW	C.S._Lewis	100054	43
+HARRY_POTTER_AND_THE_ORDER_OF_THE_PHOENIX	J.K._Rowling	100197	26
+THE_SUN_ALSO_RISES	Ernest_Hemingway	100169	30
+THE_GOOD_EARTH	Pearl_S._Buck	100295	36
+SILAS_MARNER	George_Eliot	100240	36
+LOVE_IN_THE_TIME_OF_CHOLERA	Gabriel_García_Márquez	100145	36
+REBECCA	Daphne_Du_Maurier	100116	18
+JUDE_THE_OBSCURE	Thomas_Hardy	100180	17
+TWILIGHT	Stephenie_Meyer	100100	43
+A_PASSAGE_TO_INDIA	E.M._Forster	100155	34
+THE_PLAGUE	Albert_Camus	100006	30
+NICHOLAS_NICKLEBY	Charles_Dickens	100071	46
+THE_PEARL	John_Steinbeck	100036	23
+ETHAN_FROME	Edith_Wharton	100274	16
+THE_TALE_OF_GENJI	Murasaki_Shikibu	100173	33
+THE_GIVER	Lois_Lowry	100163	26
+THE_ALCHEMIST	Paulo_Coelho	100172	24
+THE_STRANGE_CASE_OF_DR._JEKYLL_AND_MR._HYDE	Robert_Louis_Stevenson	100206	12
+ROBINSON_CRUSOE	Daniel_Defoe	100187	44
+TENDER_IS_THE_NIGHT	F._Scott_Fitzgerald	100205	44
+THE_IDIOT	Fyodor_Dostoyevsky	100057	41
+HATCHET	Gary_Paulsen	100042	37
+THE_KITE_RUNNER	Khaled_Hosseini	100106	41
+ONE_FLEW_OVER_THE_CUCKOO'S_NEST	Ken_Kesey	100253	20
+THE_PORTRAIT_OF_A_LADY	Henry_James	100238	30
+THE_OUTSIDERS	S.E._Hinton	100196	28
+BEN-HUR	Lew_Wallace	100161	44
+THE_MAYOR_OF_CASTERBRIDGE	Thomas_Hardy	100144	41
+CRY,_THE_BELOVED_COUNTRY	Alan_Paton	100286	48
+THE_LAST_BATTLE	C.S._Lewis	100223	18
+CAPTAINS_COURAGEOUS	Rudyard_Kipling	100018	45
+THE_CASTLE	Franz_Kafka	100270	39
+THE_METAMORPHOSIS	Franz_Kafka	100045	11
+THE_MAGIC_MOUNTAIN_(DER_ZAUBERBERG)	Thomas_Mann	100072	28
+JAMES_AND_THE_GIANT_PEACH	Roald_Dahl	100092	36
+THE_HORSE_AND_HIS_BOY	C.S._Lewis	100244	27
+ANGELS_&_DEMONS	Dan_Brown	100012	42
+THE_VOYAGE_OF_THE_DAWN_TREADER	C.S._Lewis	100050	38
+THE_BELL_JAR	Sylvia_Plath	100171	21
+WOMEN_IN_LOVE	D.H._Lawrence	100135	30
+THE_YEARLING	Marjorie_Kinnan_Rawlings	100249	31
+O_PIONEERS!	Willa_Cather	100142	24
+THE_HANDMAID'S_TALE	Margaret_Atwood	100105	35
+THE_MOONSTONE	Wilkie_Collins	100231	29
+THE_OLD_CURIOSITY_SHOP	Charles_Dickens	100291	23
+LITTLE_DORRIT	Charles_Dickens	100157	30
+PRINCE_CASPIAN:_THE_RETURN_TO_NARNIA	C.S._Lewis	100247	48
+SISTER_CARRIE	Theodore_Dreiser	100288	48
+THE_SILVER_CHAIR	C.S._Lewis	100128	42
+THE_HUNGER_GAMES	Suzanne_Collins	100023	40
+THIS_SIDE_OF_PARADISE	F._Scott_Fitzgerald	100064	21
+EUGéNIE_GRANDET	Honoré_de_Balzac	100136	9
+OF_HUMAN_BONDAGE	W._Somerset_Maugham	100225	12
+DREAM_OF_THE_RED_CHAMBER	Cao_Xueqin	100292	31
+LIFE_OF_PI	Yann_Martel	100007	35
+HARRY_POTTER_AND_THE_DEATHLY_HALLOWS	J.K._Rowling	100220	11
+INVISIBLE_MAN	Ralph_Ellison	100117	32
+STEPPENWOLF	Hermann_Hesse	100293	13
+THE_SORROWS_OF_YOUNG_WERTHER	Johann_Wolfgang_von_Goethe	100066	22
+BRIDGE_TO_TERABITHIA	Katherine_Paterson	100153	36
+THE_INVISIBLE_MAN	H.G._Wells	100259	19
+HOLES	Louis_Sachar	100162	10
+SIDDHARTHA	Hermann_Hesse	100038	25
+A_TREE_GROWS_IN_BROOKLYN	Betty_Smith	100192	18
+THROUGH_THE_LOOKING-GLASS,_AND_WHAT_ALICE_FOUND_THERE	Lewis_Carroll	100065	44
+IN_COLD_BLOOD	Truman_Capote	100181	48
+THE_HOUSE_OF_THE_SPIRITS	Isabel_Allende	100147	45
+ADAM_BEDE	George_Eliot	100283	10
+THE_BETROTHED	Alessandro_Manzoni	100010	27
+THE_BOOK_THIEF	Markus_Zusak	100037	14
+THEIR_EYES_WERE_WATCHING_GOD	Zora_Neale_Hurston	100179	26
+ONE_DAY_IN_THE_LIFE_OF_IVAN_DENISOVICH	Aleksandr_Isaevich_Solzhenitsyn	100086	38
+THE_SEA_WOLF	Jack_London	100246	41
+CATCHING_FIRE	Suzanne_Collins	100227	13
+ROLL_OF_THUNDER,_HEAR_MY_CRY	Mildred_D._Taylor	100151	29
+DEATH_COMES_FOR_THE_ARCHBISHOP	Willa_Cather	100002	9
+THE_HOUSE_OF_MIRTH	Edith_Wharton	100280	42
+LIGHT_IN_AUGUST	William_Faulkner	100165	32
+THE_PICKWICK_PAPERS	Charles_Dickens	100242	32
+REMEMBRANCE_OF_THINGS_PAST	Marcel_Proust	100129	27
+BARCHESTER_TOWERS_AND_THE_WARDEN	Anthony_Trollope	100082	32
+THE_BRIDGE_OF_SAN_LUIS_REY	Thornton_Wilder	100075	22
+THE_HELP	Kathryn_Stockett	100199	42
+MURDER_ON_THE_ORIENT_EXPRESS	Agatha_Christie	100009	30
+THE_LOVELY_BONES	Alice_Sebold	100166	10
+THE_APPEAL	John_Grisham	100215	32
+DOMBEY_AND_SON	Charles_Dickens	100218	33
+SLAUGHTERHOUSE-FIVE	Kurt_Vonnegut	100154	11
+AN_AMERICAN_TRAGEDY	Theodore_Dreiser	100273	47
+THE_BLUEST_EYE	Toni_Morrison	100031	22
+LITTLE_HOUSE_IN_THE_BIG_WOODS	Laura_Ingalls_Wilder	100101	43
+PIPPI_LONGSTOCKING	Astrid_Lindgren	100034	42
+GERMINAL	Émile_Zola	100032	28
+THE_HEART_IS_A_LONELY_HUNTER	Carson_McCullers	100258	16
+THE_WOMAN_IN_WHITE	Wilkie_Collins	100201	9
+ABSALOM,_ABSALOM!	William_Faulkner	100019	47
+A_PAINTED_HOUSE	John_Grisham	100033	13
+THE_GIRL_WITH_THE_DRAGON_TATTOO	Stieg_Larsson	100022	32
+A_ROOM_WITH_A_VIEW	E.M._Forster	100170	42
+WATERSHIP_DOWN	Richard_Adams	100207	25
+MEMOIRS_OF_A_GEISHA	Arthur_Golden	100191	39
+OUR_MUTUAL_FRIEND	Charles_Dickens	100055	18
+BABBITT	Sinclair_Lewis	100158	14
+THE_RED_PONY	John_Steinbeck	100108	47
+ALL_THE_KING'S_MEN	Robert_Penn_Warren	100094	16
+THINGS_FALL_APART	Chinua_Achebe	100300	28
+LORNA_DOONE	R.D._Blackmore	100107	19
+JOHNNY_TREMAIN	Esther_Forbes	100130	34
+ANNE_OF_AVONLEA	L.M._Montgomery	100281	38
+TUCK_EVERLASTING	Natalie_Babbitt	100243	34
+THE_BFG	Roald_Dahl	100212	47
+CANNERY_ROW	John_Steinbeck	100239	13
+THE_JOY_LUCK_CLUB	Amy_Tan	100177	28
+THE_SILMARILLION	J.R.R._Tolkien	100263	15
+ROOTS	Alex_Haley	100017	34
+LITTLE_HOUSE_ON_THE_PRAIRIE	Laura_Ingalls_Wilder	100252	45
+NATIVE_SON	Richard_Wright	100235	44
+STUART_LITTLE	E.B._White	100074	42
+CROSS_FIRE	James_Patterson	100256	13
+THE_POWER_AND_THE_GLORY	Graham_Greene	100120	37
+A_CLOCKWORK_ORANGE	Anthony_Burgess	100156	10
+THE_PHANTOM_OF_THE_OPERA	Gaston_Leroux	100122	21
+THE_MARTIAN_CHRONICLES	Ray_Bradbury	100028	29
+THE_ROAD	Cormac_McCarthy	100035	38
+THE_WAY_OF_ALL_FLESH	Samuel_Butler	100099	34
+DIARY_OF_A_WIMPY_KID:_THE_LONG_HAUL	Jeff_Kinney	100294	25
+VILLETTE	Charlotte_Brontë	100209	43
+THE_CURIOUS_INCIDENT_OF_THE_DOG_IN_THE_NIGHT-TIME	Mark_Haddon	100198	13
+THE_MYSTERIOUS_ISLAND	Jules_Verne	100278	30
+SONG_OF_SOLOMON	Toni_Morrison	100040	31
+NANA	Émile_Zola	100232	35
+QUO_VADIS	Henryk_Sienkiewicz	100079	47
+MAIN_STREET	Sinclair_Lewis	100005	35
+MATILDA	Roald_Dahl	100089	16
+LOLITA	Vladimir_Vladimirovich_Nabokov	100213	16
+PAPER_TOWNS	John_Green	100061	39
+SOUNDER	William_H._Armstrong	100276	48
+ARE_YOU_THERE_GOD?_IT'S_ME,_MARGARET	Judy_Blume	100184	46
+THE_NOTEBOOK	Nicholas_Sparks	100118	18
+FROM_THE_MIXED-UP_FILES_OF_MRS._BASIL_E._FRANKWEILER	E.L._Konigsburg	100167	9
+ATLAS_SHRUGGED	Ayn_Rand	100049	15
+THE_FOUNTAINHEAD	Ayn_Rand	100046	21
+NUMBER_THE_STARS	Lois_Lowry	100083	36
+THE_FIRM	John_Grisham	100068	31
+SWANN'S_WAY	Marcel_Proust	100124	25
+ENDER'S_GAME	Orson_Scott_Card	100188	22
+THE_NAME_OF_THE_ROSE	Umberto_Eco	100195	23
+A_TIME_TO_KILL	John_Grisham	100081	13
+WATER_FOR_ELEPHANTS	Sara_Gruen	100185	45
+THE_TIME_MACHINE	H.G._Wells	100093	50
+ERAGON	Christopher_Paolini	100062	18
+THE_HITCHHIKER'S_GUIDE_TO_THE_GALAXY	Douglas_Adams	100111	46
+BUDDENBROOKS	Thomas_Mann	100284	42
+A_THOUSAND_SPLENDID_SUNS	Khaled_Hosseini	100103	12
+THE_WITCH_OF_BLACKBIRD_POND	Elizabeth_George_Speare	100241	30
+AND_THEN_THERE_WERE_NONE	Agatha_Christie	100203	16
+A_SEPARATE_PEACE	John_Knowles	100052	32
+BREAKING_DAWN	Stephenie_Meyer	100202	9
+AS_I_LAY_DYING	William_Faulkner	100190	22
+THE_GIRL_WHO_PLAYED_WITH_FIRE	Stieg_Larsson	100289	29
+WHERE_THE_RED_FERN_GROWS	Wilson_Rawls	100131	35
+LE_MORTE_D'ARTHUR	Thomas_Malory	100133	47
+MOCKINGJAY	Suzanne_Collins	100143	24
+THE_PILLARS_OF_THE_EARTH	Ken_Follett	100264	15
+PERSIAN_LETTERS	Montesquieu	100004	46
+THE_CLIENT	John_Grisham	100096	29
+SULA	Toni_Morrison	100026	15
+TALES_OF_A_FOURTH_GRADE_NOTHING	Judy_Blume	100299	33
+THE_MERRY_ADVENTURES_OF_ROBIN_HOOD_OF_GREAT_RENOWN_IN_NOTTINGHAMSHIRE	Howard_Pyle	100088	47
+TORTILLA_FLAT	John_Steinbeck	100297	38
+LOOK_HOMEWARD,_ANGEL	Thomas_Wolfe	100090	46
+THE_MYSTERY_OF_EDWIN_DROOD	Charles_Dickens	100008	31
+BRIDESHEAD_REVISITED	Evelyn_Waugh	100194	15
+THE_PELICAN_BRIEF	John_Grisham	100271	15
+ATONEMENT	Ian_McEwan	100123	11
+WASHINGTON_SQUARE	Henry_James	100204	20
+LIKE_WATER_FOR_CHOCOLATE	Laura_Esquivel	100137	27

@@ -13,12 +13,14 @@
 class Book {
 private:
     std::string title{};
+    std::string author{};
     int price{};
     const uint32_t ISBN;
 public:
-    Book(std::string title, int price, uint32_t ISBN) :
-        title(move(title)), price(price), ISBN(ISBN) {}
+    Book(std::string title, std::string author, int price, uint32_t ISBN) :
+        title(move(title)), author(move(author)), price(price), ISBN(ISBN) {}
     std::string GetTitle() const;
+    std::string GetAuthor() const;
     uint32_t GetISBN() const;
     int GetPrice() const;
 };

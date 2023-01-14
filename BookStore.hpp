@@ -26,8 +26,8 @@ private:
 public:
     BookStore();
     void ListAll() const;
-    //void FindBook(const std::string &title) const;
-    //void FindBook(const uint32_t ISBN) const;
+    void FindBook(const std::string &title) const;
+    void FindBook(const uint32_t ISBN) const;
     
 };
 

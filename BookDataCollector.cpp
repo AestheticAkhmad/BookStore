@@ -14,12 +14,12 @@ BookDataCollector::BookDataCollector(std::vector<std::shared_ptr<Book>> &books, 
     std::fstream dataStream;
     dataStream.open(fileName);
     while(getline(dataStream, line)) {
-        std::string title{};
+        std::string title{}, author{};
         uint32_t ISBN{};
         int price{};
         std::istringstream buffer(line);
-        buffer>>title>>ISBN>>price;
-        Book newBook(title, price, ISBN);
+        buffer>>title>>author>>ISBN>>price;
+        Book newBook(title, author, price, ISBN);
         auto newBook_ptr = std::make_shared<Book>(newBook);
         books.push_back(newBook_ptr);
         booksByTitle.insert(make_pair(books.back()->GetTitle(), books.back()));

@@ -11,6 +11,10 @@ std::string Book::GetTitle() const {
     return title;
 }
 
+std::string Book::GetAuthor() const {
+    return author;
+}
+
 uint32_t Book::GetISBN() const {
     return ISBN;
 }

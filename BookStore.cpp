@@ -1,9 +1,5 @@
-//
-//  BookStore.cpp
-//  BookStore
-//
-//  Created by Akhmad Oripov  on 14/01/2023.
-//
+//  By AestheticAkhmad
+//  Created by Akhmad on 14/01/2023.
 
 #include "BookStore.hpp"
 
@@ -16,27 +12,77 @@ void BookStore::ListAll() const {
     for(auto i : books) {
         std::cout<<"Title: "<<i->GetTitle()<<"\t| By "<<i->GetAuthor()<<"\n";
         std::cout<<"Price: $"<<i->GetPrice()<<"\t| ISBN: "<<i->GetISBN()<<"\n";
-        std::cout<<"-----------------------\n";
+        std::cout<<"-----------------------------\n";
     }
 }
 
-void BookStore::FindBook(std::string &title) const {
-    title.erase(std::remove_if(
-        begin(title), end(title),
-        [l = std::locale{}](auto ch) {
-            if(ispunct(ch) != 0) return ispunct(ch, l);
-            if(isspace(ch) != 0) return isspace(ch, l);
-            return std::ispunct(ch, l);
+auto BookStore::FindBook(std::string &title, uint32_t ISBN) const {
+    if(ISBN <= 100000) {
+        title.erase(std::remove_if(
+            begin(title), end(title),
+            [l = std::locale{}](auto ch) {
+                if(ispunct(ch) != 0) return ispunct(ch, l);
+                if(isspace(ch) != 0) return isspace(ch, l);
+                return std::ispunct(ch, l);
+            }
+        ), end(title));
+        
+        std::transform(title.cbegin(), title.cend(), title.begin(),
+                       [](unsigned char c) {return std::toupper(c);});
+        
+        auto findBook = booksByTitle.find(title);
+        if(findBook != booksByTitle.end()) {
+            return findBook->second;
+        } else {
+            std::cout<<"The book was not found.\n";
         }
-    ), end(title));
-    
-    std::transform(title.cbegin(), title.cend(), title.begin(),
-                   [](unsigned char c) {return std::toupper(c);});
-    
-    auto findBook = booksByTitle.find(title);
-    if(findBook != booksByTitle.end()) {
-        std::cout<<findBook->second->GetTitle()<<" has been found.\n";
+        return std::shared_ptr<Book>(nullptr);
+    }
+    auto findBook = booksByISBN.find(ISBN);
+    if(findBook != booksByISBN.end()) {
+        return findBook->second;
     } else {
-        std::cout<<"The book hasn't been found.\n";
+        std::cout<<"The book with the ISBN was not found.\n";
+    }
+    return std::shared_ptr<Book>(nullptr);
+}
+
+
+void BookStore::BuyBook(std::string &title, uint32_t ISBN) {
+    std::shared_ptr<Book> book;
+    book = FindBook(title, ISBN);
+    
+    if(book == nullptr) return;
+    
+    if(book->IsAvailable() == false) {
+        std::cout<<"The book is not available.\n\n";
+    } else {
+        book->GetInfo();
+        while(true) {
+            int count{};
+            std::cout<<"How many books do you want to buy?: ";
+            std::cin>>count;
+            if(count <= 0) {
+                std::cout<<"Number cannot be less than or equal to zero.\nEnter different value.\n";
+                continue;
+            } else if(count > book->GetQuantity()) {
+                std::cout<<"We do not have that amount of books currently available.\nEnter different value.\n\n";
+                continue;
+            } else {
+                std::string confirm{};
+                std::cout<<"Price for "<<count<<" books: $"<<count*book->GetPrice()<<"\n";
+                std::cout<<"Confirm your order(yes/no): ";
+                std::cin>>confirm;
+                if(confirm == "yes") {
+                    book->SetQuantity(-count);
+                    std::cout<<"You have successfully ordered "<<count<<" of "<<
+                    book->GetTitle()<<"\n";
+                    std::cout<<"Thank you for your order!\n\n";
+                } else {
+                    std::cout<<"The order has been cancelled.\n\n";
+                }
+                break;
+            }
+        }
     }
 }

@@ -1,9 +1,5 @@
-//
-//  BookStore.hpp
-//  BookStore
-//
-//  Created by Akhmad Oripov  on 14/01/2023.
-//
+//  By AestheticAkhmad
+//  Created by Akhmad on 14/01/2023.
 
 #ifndef BookStore_hpp
 #define BookStore_hpp
@@ -27,9 +23,8 @@ private:
 public:
     BookStore();
     void ListAll() const;
-    void FindBook(std::string &title) const;
-    void FindBook(const uint32_t ISBN) const;
-    
+    auto FindBook(std::string &title, uint32_t ISBN) const;
+    void BuyBook(std::string &title, uint32_t ISBN);
 };
 
 

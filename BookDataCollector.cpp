@@ -1,9 +1,5 @@
-//
-//  BookDataCollector.cpp
-//  BookStore
-//
-//  Created by Akhmad Oripov  on 14/01/2023.
-//
+//  By AestheticAkhmad
+//  Created by Akhmad on 14/01/2023.
 
 #include "BookDataCollector.hpp"
 
@@ -17,10 +13,10 @@ BookDataCollector::BookDataCollector(std::vector<std::shared_ptr<Book>> &books, 
     while(getline(dataStream, line)) {
         std::string title{}, author{};
         uint32_t ISBN{};
-        int price{};
+        int price{}, quantity{};
         std::istringstream buffer(line);
-        buffer>>title>>author>>ISBN>>price;
-        Book newBook(title, author, price, ISBN);
+        buffer>>title>>author>>ISBN>>price>>quantity;
+        Book newBook(title, author, price, ISBN, quantity);
         auto newBook_ptr = std::make_shared<Book>(newBook);
         books.push_back(newBook_ptr);
         

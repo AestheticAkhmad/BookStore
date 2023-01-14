@@ -1,9 +1,5 @@
-//
-//  BookDataCollector.hpp
-//  BookStore
-//
-//  Created by Akhmad Oripov  on 14/01/2023.
-//
+//  By AestheticAkhmad
+//  Created by Akhmad on 14/01/2023.
 
 #ifndef BookDataCollector_hpp
 #define BookDataCollector_hpp

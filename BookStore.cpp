@@ -19,3 +19,24 @@ void BookStore::ListAll() const {
         std::cout<<"-----------------------\n";
     }
 }
+
+void BookStore::FindBook(std::string &title) const {
+    title.erase(std::remove_if(
+        begin(title), end(title),
+        [l = std::locale{}](auto ch) {
+            if(ispunct(ch) != 0) return ispunct(ch, l);
+            if(isspace(ch) != 0) return isspace(ch, l);
+            return std::ispunct(ch, l);
+        }
+    ), end(title));
+    
+    std::transform(title.cbegin(), title.cend(), title.begin(),
+                   [](unsigned char c) {return std::toupper(c);});
+    
+    auto findBook = booksByTitle.find(title);
+    if(findBook != booksByTitle.end()) {
+        std::cout<<findBook->second->GetTitle()<<" has been found.\n";
+    } else {
+        std::cout<<"The book hasn't been found.\n";
+    }
+}

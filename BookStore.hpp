@@ -15,6 +15,7 @@
 #include <vector>
 #include <memory>
 #include <map>
+#include <locale>
 
 
 
@@ -26,7 +27,7 @@ private:
 public:
     BookStore();
     void ListAll() const;
-    void FindBook(const std::string &title) const;
+    void FindBook(std::string &title) const;
     void FindBook(const uint32_t ISBN) const;
     
 };

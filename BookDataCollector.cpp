@@ -13,6 +13,7 @@ BookDataCollector::BookDataCollector(std::vector<std::shared_ptr<Book>> &books, 
     std::string fileName = "bookList.txt";
     std::fstream dataStream;
     dataStream.open(fileName);
+    
     while(getline(dataStream, line)) {
         std::string title{}, author{};
         uint32_t ISBN{};
@@ -22,8 +23,19 @@ BookDataCollector::BookDataCollector(std::vector<std::shared_ptr<Book>> &books, 
         Book newBook(title, author, price, ISBN);
         auto newBook_ptr = std::make_shared<Book>(newBook);
         books.push_back(newBook_ptr);
-        booksByTitle.insert(make_pair(books.back()->GetTitle(), books.back()));
+        
+        auto originalTitle = books.back()->GetTitle();
+        std::string editedTitle;
+        editedTitle.reserve(originalTitle.size());
+        std::remove_copy_if(
+            begin(originalTitle), end(originalTitle),
+            std::back_inserter(editedTitle),
+            [l = std::locale{}](auto ch) { return std::ispunct(ch, l); }
+        );
+        
+        booksByTitle.insert(make_pair(editedTitle, books.back()));
         booksByISBN.insert(make_pair(books.back()->GetISBN(), books.back()));
+        
     }
     dataStream.close();
 }

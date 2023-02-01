@@ -25,6 +25,7 @@ public:
     void ListAll() const;
     auto FindBook(std::string &title, uint32_t ISBN) const;
     void BuyBook(std::string &title, uint32_t ISBN);
+    void CheckOut(std::shared_ptr<Book> &book, int count);
 };
 
 

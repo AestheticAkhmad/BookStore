@@ -31,7 +31,7 @@ int main(int argc, const char * argv[]) {
         } else {
             break;
         }
-        cout<<"Do you wish to continue shopping?(y/n): ";
+        cout<<"Do you wish to continue shopping?(yes/no): ";
         cin>>choice;
         if(choice == 'y') {
             continue;

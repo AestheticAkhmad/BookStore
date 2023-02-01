@@ -70,19 +70,41 @@ void BookStore::BuyBook(std::string &title, uint32_t ISBN) {
                 continue;
             } else {
                 std::string confirm{};
-                std::cout<<"Price for "<<count<<" books: $"<<count*book->GetPrice()<<"\n";
-                std::cout<<"Confirm your order(yes/no): ";
+                std::cout<<"Proceed to checkout(yes/no): ";
                 std::cin>>confirm;
                 if(confirm == "yes") {
-                    book->SetQuantity(-count);
-                    std::cout<<"You have successfully ordered "<<count<<" of "<<
-                    book->GetTitle()<<"\n";
-                    std::cout<<"Thank you for your order!\n\n";
+                    CheckOut(book, count);
                 } else {
-                    std::cout<<"The order has been cancelled.\n\n";
+                    return;
                 }
                 break;
             }
         }
+    }
+}
+
+
+void BookStore::CheckOut(std::shared_ptr<Book> &book, int count) {
+    std::cout<<"Price for "<<count<<" books: $"<<count*book->GetPrice()<<"\n";
+    std::string name{}, lastName{}, confirm{};
+    uint64_t cardNumber{};
+    uint16_t secretCode{};
+    std::cout<<"Enter your name: ";
+    std::cin>>name;
+    std::cout<<"Enter your last name: ";
+    std::cin>>lastName;
+    std::cout<<"Enter your card number: ";
+    std::cin>>cardNumber;
+    std::cout<<"Enter your secret code: ";
+    std::cin>>secretCode;
+    std::cout<<"Confirm the purchase(yes/no): ";
+    std::cin>>confirm;
+    if(confirm == "yes") {
+        book->SetQuantity(-count);
+        std::cout<<"You have successfully ordered "<<count<<" of "<<
+        book->GetTitle()<<"\n";
+        std::cout<<"Thank you for your order!\n\n";
+    } else {
+        std::cout<<"The order has been cancelled.\n\n";
     }
 }
